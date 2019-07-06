@@ -67,10 +67,10 @@ Full-Size:
 [![Google Logo](/images/google.png)](https://google.com)
 
 Unfortunately, if you want to resize the image by percentage, you have to use the HTML <img> tag: 
-![<img src="/images/google.png" alt="Google Logo" width="50%">](https://google.com)
+<img src="./images/google.png" alt="Google Logo" width="50%"> (https://google.com)
 
 Additionally, if you want to resize the image to a specific dimension, you have to use the HTML <img> tag: 
-![<img src="/images/google.png"  alt="Google Logo" width="250px">](https://google.com)
+<img src="./images/google.png"  alt="Google Logo" width="250px"> (https://google.com)
 
 
 # Tables
