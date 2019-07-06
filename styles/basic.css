@@ -73,19 +73,6 @@ body {
 * {
   box-sizing: border-box;
 }
-
-header, main, aside, footer {
-  padding: 2em;
-}
-header {
-  background: #d3d3d3;
-}
-main {
-  background: #ffffff;
-}
-side {
-  background: #f0ffff;
-}
 q:before {content: '\201c'}
 q:after  {content: '\201d'}
 q q:before {content: '\2018'}
