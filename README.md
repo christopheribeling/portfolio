@@ -1,2 +1,2 @@
-# portfolio
-A site set up to teach Github pages for class I am TAing.
+# Read Me
+This is a practice site set up to teach Github pages
