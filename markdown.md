@@ -1,4 +1,4 @@
-#Headings
+# Headings
 # H1
 ## H2
 ### H3
@@ -14,7 +14,7 @@ Alt-H1
 Alt-H2
 ------
 
-#Text Emphasis
+# Text Emphasis
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -23,7 +23,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-#Lists
+# Lists
 1. First ordered list item
 2. Another item
   * Unordered sub-list. 
@@ -37,7 +37,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-#Links
+# Links
 [I'm an inline-style link](https://www.google.com)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
@@ -56,18 +56,18 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-#Images
+# Images
 Here's Google's Logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://google.com//images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 1")
+![alt text](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/google-logo "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://google.com//images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 2"
+[logo]: https://www.stickpng.com/img/icons-logos-emojis/tech-companies/google-logo "Logo Title Text 2"
 
-#Tables
+# Tables
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
@@ -83,7 +83,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-#Blockquotes
+# Blockquotes
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 
@@ -91,7 +91,7 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
-#Horizontal Rule
+# Horizontal Rule
 Three or more...
 
 ---
