@@ -53,19 +53,19 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
+[1]: https://google.com
 [link text itself]: http://www.reddit.com
 
 #Images
 Here's Google's Logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://google.com//images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 1")
+![alt text](https://google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://google.com//images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 2"
+[logo]: https://google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png "Logo Title Text 2"
 
 #Tables
 Colons can be used to align columns.
