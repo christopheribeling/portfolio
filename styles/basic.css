@@ -70,6 +70,29 @@ body {
   min-height: 100%;
   padding: 2em;
 }
+* {
+  box-sizing: border-box;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  font-family: sans-serif;
+  background: #333;
+}
+body {
+  margin: 0;
+}
+header, main, aside, footer {
+  padding: 2em;
+}
+header {
+  background: lightgrey;
+}
+main {
+  background: white;
+}
+side {
+  background: azure1;
+}
 q:before {content: '\201c'}
 q:after  {content: '\201d'}
 q q:before {content: '\2018'}
@@ -278,6 +301,21 @@ video {
     font-size: 7.5pt;
   }
 }
+@media (min-width: 600px) {
+  main, side {
+    float: left;
+  }
+  main {
+    width: 70%;
+  }
+  side {
+    width: 30%;
+  }
+  footer {
+    clear: both;
+  }
+}
+
 /* Default Theme */
 [data-theme=default] ::-moz-selection {
   color: #fff !important;
