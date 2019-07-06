@@ -63,8 +63,14 @@ Some text to show that the reference links can follow later.
 # Images
 Here's Google's Logo (hover to see the title text):
 
-Inline-style: 
+Full-Size: 
 [![Google Logo](/images/google.png)](https://google.com)
+
+Half-Size: 
+[![Google Logo](/images/google.png | width=50%)](https://google.com)
+
+Specific-Size: 
+[![Google Logo](/images/google.png | width=250)](https://google.com)
 
 
 # Tables
